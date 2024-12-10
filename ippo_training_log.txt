@@ -1,0 +1,2000 @@
+Episode 1, Reward: -9.58, Avg Reward: -9.58
+Actor Loss: -0.0073, Value Loss: 0.2662, Entropy: 0.4192
+Best Avg Reward: -9.58
+
+Episode 2, Reward: -10.97, Avg Reward: -10.27
+Actor Loss: -0.0074, Value Loss: 0.2257, Entropy: 0.4195
+Best Avg Reward: -9.58
+
+Episode 3, Reward: -8.24, Avg Reward: -9.60
+Actor Loss: -0.0058, Value Loss: 0.1998, Entropy: 0.4222
+Best Avg Reward: -9.58
+
+Episode 4, Reward: -10.12, Avg Reward: -9.73
+Actor Loss: -0.0061, Value Loss: 0.1308, Entropy: 0.4246
+Best Avg Reward: -9.58
+
+Episode 5, Reward: -8.60, Avg Reward: -9.50
+Actor Loss: -0.0059, Value Loss: 0.1350, Entropy: 0.4258
+Best Avg Reward: -9.50
+
+Episode 6, Reward: -9.63, Avg Reward: -9.52
+Actor Loss: -0.0073, Value Loss: 0.1799, Entropy: 0.4261
+Best Avg Reward: -9.50
+
+Episode 7, Reward: -9.50, Avg Reward: -9.52
+Actor Loss: -0.0064, Value Loss: 0.1522, Entropy: 0.4261
+Best Avg Reward: -9.50
+
+Episode 8, Reward: -9.41, Avg Reward: -9.51
+Actor Loss: -0.0079, Value Loss: 0.1284, Entropy: 0.4278
+Best Avg Reward: -9.50
+
+Episode 9, Reward: -7.24, Avg Reward: -9.25
+Actor Loss: -0.0075, Value Loss: 0.0983, Entropy: 0.4296
+Best Avg Reward: -9.25
+
+Episode 10, Reward: -9.30, Avg Reward: -9.26
+Actor Loss: -0.0117, Value Loss: 0.1157, Entropy: 0.4278
+Best Avg Reward: -9.25
+
+Episode 11, Reward: -10.80, Avg Reward: -9.40
+Actor Loss: -0.0077, Value Loss: 0.1428, Entropy: 0.4255
+Best Avg Reward: -9.25
+
+Episode 12, Reward: -7.20, Avg Reward: -9.22
+Actor Loss: -0.0128, Value Loss: 0.0846, Entropy: 0.4260
+Best Avg Reward: -9.22
+
+Episode 13, Reward: -8.56, Avg Reward: -9.16
+Actor Loss: -0.0128, Value Loss: 0.0807, Entropy: 0.4271
+Best Avg Reward: -9.16
+
+Episode 14, Reward: -10.31, Avg Reward: -9.25
+Actor Loss: -0.0077, Value Loss: 0.1145, Entropy: 0.4283
+Best Avg Reward: -9.16
+
+Episode 15, Reward: -8.99, Avg Reward: -9.23
+Actor Loss: -0.0079, Value Loss: 0.1127, Entropy: 0.4307
+Best Avg Reward: -9.16
+
+Episode 16, Reward: -7.83, Avg Reward: -9.14
+Actor Loss: -0.0119, Value Loss: 0.1304, Entropy: 0.4329
+Best Avg Reward: -9.14
+
+Episode 17, Reward: -4.81, Avg Reward: -8.89
+Actor Loss: -0.0107, Value Loss: 0.1255, Entropy: 0.4333
+Best Avg Reward: -8.89
+
+Episode 18, Reward: -6.57, Avg Reward: -8.76
+Actor Loss: -0.0076, Value Loss: 0.2415, Entropy: 0.4324
+Best Avg Reward: -8.76
+
+Episode 19, Reward: -0.05, Avg Reward: -8.30
+Actor Loss: -0.0089, Value Loss: 0.1566, Entropy: 0.4328
+Best Avg Reward: -8.30
+
+Episode 20, Reward: -0.75, Avg Reward: -7.92
+Actor Loss: -0.0166, Value Loss: 0.1608, Entropy: 0.4330
+Best Avg Reward: -7.92
+
+Episode 21, Reward: 7.52, Avg Reward: -7.19
+Actor Loss: -0.0085, Value Loss: 0.1577, Entropy: 0.4336
+Best Avg Reward: -7.19
+
+Episode 22, Reward: 2.00, Avg Reward: -6.77
+Actor Loss: -0.0134, Value Loss: 0.1357, Entropy: 0.4338
+Best Avg Reward: -6.77
+
+Episode 23, Reward: 8.54, Avg Reward: -6.10
+Actor Loss: -0.0106, Value Loss: 0.2054, Entropy: 0.4330
+Best Avg Reward: -6.10
+
+Episode 24, Reward: 4.84, Avg Reward: -5.65
+Actor Loss: -0.0109, Value Loss: 0.2561, Entropy: 0.4323
+Best Avg Reward: -5.65
+
+Episode 25, Reward: 3.89, Avg Reward: -5.27
+Actor Loss: -0.0149, Value Loss: 0.2068, Entropy: 0.4327
+Best Avg Reward: -5.27
+
+Episode 26, Reward: 8.83, Avg Reward: -4.72
+Actor Loss: -0.0116, Value Loss: 0.2275, Entropy: 0.4325
+Best Avg Reward: -4.72
+
+Episode 27, Reward: 14.38, Avg Reward: -4.02
+Actor Loss: -0.0121, Value Loss: 0.3317, Entropy: 0.4304
+Best Avg Reward: -4.02
+
+Episode 28, Reward: 14.19, Avg Reward: -3.37
+Actor Loss: -0.0106, Value Loss: 0.2881, Entropy: 0.4283
+Best Avg Reward: -3.37
+
+Episode 29, Reward: 13.44, Avg Reward: -2.79
+Actor Loss: -0.0059, Value Loss: 0.3940, Entropy: 0.4258
+Best Avg Reward: -2.79
+
+Episode 30, Reward: 6.15, Avg Reward: -2.49
+Actor Loss: -0.0174, Value Loss: 0.3391, Entropy: 0.4261
+Best Avg Reward: -2.49
+
+Episode 31, Reward: 5.96, Avg Reward: -2.22
+Actor Loss: -0.0142, Value Loss: 0.3423, Entropy: 0.4277
+Best Avg Reward: -2.22
+
+Episode 32, Reward: 17.24, Avg Reward: -1.61
+Actor Loss: -0.0112, Value Loss: 0.3749, Entropy: 0.4269
+Best Avg Reward: -1.61
+
+Episode 33, Reward: 17.45, Avg Reward: -1.03
+Actor Loss: -0.0095, Value Loss: 0.4484, Entropy: 0.4251
+Best Avg Reward: -1.03
+
+Episode 34, Reward: 29.43, Avg Reward: -0.14
+Actor Loss: -0.0087, Value Loss: 0.4727, Entropy: 0.4247
+Best Avg Reward: -0.14
+
+Episode 35, Reward: 14.43, Avg Reward: 0.28
+Actor Loss: -0.0124, Value Loss: 0.5766, Entropy: 0.4229
+Best Avg Reward: 0.28
+
+Episode 36, Reward: 23.31, Avg Reward: 0.92
+Actor Loss: -0.0081, Value Loss: 0.3386, Entropy: 0.4205
+Best Avg Reward: 0.92
+
+Episode 37, Reward: 8.49, Avg Reward: 1.13
+Actor Loss: -0.0155, Value Loss: 0.5976, Entropy: 0.4218
+Best Avg Reward: 1.13
+
+Episode 38, Reward: 22.43, Avg Reward: 1.69
+Actor Loss: -0.0134, Value Loss: 0.3457, Entropy: 0.4224
+Best Avg Reward: 1.69
+
+Episode 39, Reward: 20.44, Avg Reward: 2.17
+Actor Loss: -0.0121, Value Loss: 0.3627, Entropy: 0.4220
+Best Avg Reward: 2.17
+
+Episode 40, Reward: 24.63, Avg Reward: 2.73
+Actor Loss: -0.0087, Value Loss: 0.6359, Entropy: 0.4206
+Best Avg Reward: 2.73
+
+Episode 41, Reward: 11.17, Avg Reward: 2.93
+Actor Loss: -0.0165, Value Loss: 0.7208, Entropy: 0.4169
+Best Avg Reward: 2.93
+
+Episode 42, Reward: 31.50, Avg Reward: 3.61
+Actor Loss: -0.0074, Value Loss: 0.4325, Entropy: 0.4156
+Best Avg Reward: 3.61
+
+Episode 43, Reward: 14.67, Avg Reward: 3.87
+Actor Loss: -0.0135, Value Loss: 0.4790, Entropy: 0.4149
+Best Avg Reward: 3.87
+
+Episode 44, Reward: 13.67, Avg Reward: 4.09
+Actor Loss: -0.0131, Value Loss: 0.4541, Entropy: 0.4125
+Best Avg Reward: 4.09
+
+Episode 45, Reward: 17.07, Avg Reward: 4.38
+Actor Loss: -0.0144, Value Loss: 0.3471, Entropy: 0.4117
+Best Avg Reward: 4.38
+
+Episode 46, Reward: 24.53, Avg Reward: 4.82
+Actor Loss: -0.0088, Value Loss: 0.4469, Entropy: 0.4099
+Best Avg Reward: 4.82
+
+Episode 47, Reward: 21.14, Avg Reward: 5.17
+Actor Loss: -0.0114, Value Loss: 0.4168, Entropy: 0.4083
+Best Avg Reward: 5.17
+
+Episode 48, Reward: 28.03, Avg Reward: 5.64
+Actor Loss: -0.0093, Value Loss: 0.4341, Entropy: 0.4061
+Best Avg Reward: 5.64
+
+Episode 49, Reward: 16.44, Avg Reward: 5.86
+Actor Loss: -0.0128, Value Loss: 0.5776, Entropy: 0.4030
+Best Avg Reward: 5.86
+
+Episode 50, Reward: 22.48, Avg Reward: 6.20
+Actor Loss: -0.0097, Value Loss: 0.2801, Entropy: 0.4036
+Best Avg Reward: 6.20
+
+Episode 51, Reward: 25.66, Avg Reward: 6.58
+Actor Loss: -0.0130, Value Loss: 0.3312, Entropy: 0.4040
+Best Avg Reward: 6.58
+
+Episode 52, Reward: 61.07, Avg Reward: 7.63
+Actor Loss: -0.0063, Value Loss: 0.6658, Entropy: 0.4044
+Best Avg Reward: 7.63
+
+Episode 53, Reward: 40.85, Avg Reward: 8.25
+Actor Loss: -0.0109, Value Loss: 0.5360, Entropy: 0.4037
+Best Avg Reward: 8.25
+
+Episode 54, Reward: 26.34, Avg Reward: 8.59
+Actor Loss: -0.0094, Value Loss: 0.5744, Entropy: 0.4013
+Best Avg Reward: 8.59
+
+Episode 55, Reward: 34.49, Avg Reward: 9.06
+Actor Loss: -0.0086, Value Loss: 0.4077, Entropy: 0.3990
+Best Avg Reward: 9.06
+
+Episode 56, Reward: 45.80, Avg Reward: 9.71
+Actor Loss: -0.0103, Value Loss: 0.5241, Entropy: 0.3973
+Best Avg Reward: 9.71
+
+Episode 57, Reward: 44.09, Avg Reward: 10.32
+Actor Loss: -0.0087, Value Loss: 0.5669, Entropy: 0.3957
+Best Avg Reward: 10.32
+
+Episode 58, Reward: 32.50, Avg Reward: 10.70
+Actor Loss: -0.0101, Value Loss: 0.7761, Entropy: 0.3944
+Best Avg Reward: 10.70
+
+Episode 59, Reward: 26.02, Avg Reward: 10.96
+Actor Loss: -0.0130, Value Loss: 0.5026, Entropy: 0.3949
+Best Avg Reward: 10.96
+
+Episode 60, Reward: 40.02, Avg Reward: 11.44
+Actor Loss: -0.0128, Value Loss: 0.3533, Entropy: 0.3936
+Best Avg Reward: 11.44
+
+Episode 61, Reward: 59.11, Avg Reward: 12.23
+Actor Loss: -0.0068, Value Loss: 0.5390, Entropy: 0.3923
+Best Avg Reward: 12.23
+
+Episode 62, Reward: 31.59, Avg Reward: 12.54
+Actor Loss: -0.0130, Value Loss: 0.5890, Entropy: 0.3924
+Best Avg Reward: 12.54
+
+Episode 63, Reward: 39.44, Avg Reward: 12.97
+Actor Loss: -0.0112, Value Loss: 0.4008, Entropy: 0.3918
+Best Avg Reward: 12.97
+
+Episode 64, Reward: 22.48, Avg Reward: 13.11
+Actor Loss: -0.0100, Value Loss: 0.2307, Entropy: 0.3912
+Best Avg Reward: 13.11
+
+Episode 65, Reward: 30.48, Avg Reward: 13.38
+Actor Loss: -0.0109, Value Loss: 0.5366, Entropy: 0.3880
+Best Avg Reward: 13.38
+
+Episode 66, Reward: 30.29, Avg Reward: 13.64
+Actor Loss: -0.0097, Value Loss: 0.4161, Entropy: 0.3857
+Best Avg Reward: 13.64
+
+Episode 67, Reward: 40.70, Avg Reward: 14.04
+Actor Loss: -0.0092, Value Loss: 0.3970, Entropy: 0.3848
+Best Avg Reward: 14.04
+
+Episode 68, Reward: 49.54, Avg Reward: 14.56
+Actor Loss: -0.0101, Value Loss: 0.4416, Entropy: 0.3818
+Best Avg Reward: 14.56
+
+Episode 69, Reward: 51.70, Avg Reward: 15.10
+Actor Loss: -0.0103, Value Loss: 0.4546, Entropy: 0.3787
+Best Avg Reward: 15.10
+
+Episode 70, Reward: 35.53, Avg Reward: 15.39
+Actor Loss: -0.0102, Value Loss: 0.6704, Entropy: 0.3767
+Best Avg Reward: 15.39
+
+Episode 71, Reward: 44.82, Avg Reward: 15.81
+Actor Loss: -0.0092, Value Loss: 0.5247, Entropy: 0.3770
+Best Avg Reward: 15.81
+
+Episode 72, Reward: 24.25, Avg Reward: 15.93
+Actor Loss: -0.0140, Value Loss: 1.0163, Entropy: 0.3770
+Best Avg Reward: 15.93
+
+Episode 73, Reward: 21.36, Avg Reward: 16.00
+Actor Loss: -0.0123, Value Loss: 0.8080, Entropy: 0.3762
+Best Avg Reward: 16.00
+
+Episode 74, Reward: 41.54, Avg Reward: 16.34
+Actor Loss: -0.0091, Value Loss: 0.4768, Entropy: 0.3763
+Best Avg Reward: 16.34
+
+Episode 75, Reward: 30.30, Avg Reward: 16.53
+Actor Loss: -0.0116, Value Loss: 0.3557, Entropy: 0.3762
+Best Avg Reward: 16.53
+
+Episode 76, Reward: 23.54, Avg Reward: 16.62
+Actor Loss: -0.0145, Value Loss: 0.5938, Entropy: 0.3756
+Best Avg Reward: 16.62
+
+Episode 77, Reward: 32.49, Avg Reward: 16.83
+Actor Loss: -0.0071, Value Loss: 0.3318, Entropy: 0.3754
+Best Avg Reward: 16.83
+
+Episode 78, Reward: 57.05, Avg Reward: 17.34
+Actor Loss: -0.0091, Value Loss: 0.4648, Entropy: 0.3750
+Best Avg Reward: 17.34
+
+Episode 79, Reward: 52.65, Avg Reward: 17.79
+Actor Loss: -0.0099, Value Loss: 0.4682, Entropy: 0.3748
+Best Avg Reward: 17.79
+
+Episode 80, Reward: 43.18, Avg Reward: 18.11
+Actor Loss: -0.0097, Value Loss: 0.5335, Entropy: 0.3745
+Best Avg Reward: 18.11
+
+Episode 81, Reward: 54.12, Avg Reward: 18.55
+Actor Loss: -0.0084, Value Loss: 0.4849, Entropy: 0.3742
+Best Avg Reward: 18.55
+
+Episode 82, Reward: 58.66, Avg Reward: 19.04
+Actor Loss: -0.0080, Value Loss: 0.3509, Entropy: 0.3729
+Best Avg Reward: 19.04
+
+Episode 83, Reward: 55.99, Avg Reward: 19.49
+Actor Loss: -0.0094, Value Loss: 0.3438, Entropy: 0.3719
+Best Avg Reward: 19.49
+
+Episode 84, Reward: 64.15, Avg Reward: 20.02
+Actor Loss: -0.0096, Value Loss: 0.4629, Entropy: 0.3729
+Best Avg Reward: 20.02
+
+Episode 85, Reward: 46.38, Avg Reward: 20.33
+Actor Loss: -0.0107, Value Loss: 0.4842, Entropy: 0.3721
+Best Avg Reward: 20.33
+
+Episode 86, Reward: 94.04, Avg Reward: 21.19
+Actor Loss: -0.0101, Value Loss: 0.6186, Entropy: 0.3709
+Best Avg Reward: 21.19
+
+Episode 87, Reward: 94.47, Avg Reward: 22.03
+Actor Loss: -0.0081, Value Loss: 0.5082, Entropy: 0.3694
+Best Avg Reward: 22.03
+
+Episode 88, Reward: 56.66, Avg Reward: 22.42
+Actor Loss: -0.0103, Value Loss: 0.5846, Entropy: 0.3674
+Best Avg Reward: 22.42
+
+Episode 89, Reward: 77.33, Avg Reward: 23.04
+Actor Loss: -0.0078, Value Loss: 0.3359, Entropy: 0.3665
+Best Avg Reward: 23.04
+
+Episode 90, Reward: 59.67, Avg Reward: 23.45
+Actor Loss: -0.0094, Value Loss: 0.7668, Entropy: 0.3647
+Best Avg Reward: 23.45
+
+Episode 91, Reward: 109.43, Avg Reward: 24.39
+Actor Loss: -0.0073, Value Loss: 0.8187, Entropy: 0.3642
+Best Avg Reward: 24.39
+
+Episode 92, Reward: 102.83, Avg Reward: 25.24
+Actor Loss: -0.0082, Value Loss: 0.4178, Entropy: 0.3652
+Best Avg Reward: 25.24
+
+Episode 93, Reward: 76.46, Avg Reward: 25.79
+Actor Loss: -0.0092, Value Loss: 0.3522, Entropy: 0.3649
+Best Avg Reward: 25.79
+
+Episode 94, Reward: 100.01, Avg Reward: 26.58
+Actor Loss: -0.0075, Value Loss: 0.3324, Entropy: 0.3637
+Best Avg Reward: 26.58
+
+Episode 95, Reward: 52.04, Avg Reward: 26.85
+Actor Loss: -0.0125, Value Loss: 2.3299, Entropy: 0.3624
+Best Avg Reward: 26.85
+
+Episode 96, Reward: 52.01, Avg Reward: 27.11
+Actor Loss: -0.0107, Value Loss: 0.8859, Entropy: 0.3599
+Best Avg Reward: 27.11
+
+Episode 97, Reward: 41.28, Avg Reward: 27.26
+Actor Loss: -0.0113, Value Loss: 1.4200, Entropy: 0.3591
+Best Avg Reward: 27.26
+
+Episode 98, Reward: 59.05, Avg Reward: 27.58
+Actor Loss: -0.0098, Value Loss: 0.9453, Entropy: 0.3603
+Best Avg Reward: 27.58
+
+Episode 99, Reward: 44.42, Avg Reward: 27.75
+Actor Loss: -0.0110, Value Loss: 0.4757, Entropy: 0.3599
+Best Avg Reward: 27.75
+
+Episode 100, Reward: 39.98, Avg Reward: 27.88
+Actor Loss: -0.0137, Value Loss: 0.4789, Entropy: 0.3608
+Best Avg Reward: 27.88
+
+Episode 101, Reward: 51.25, Avg Reward: 28.49
+Actor Loss: -0.0131, Value Loss: 0.2746, Entropy: 0.3594
+Best Avg Reward: 28.49
+
+Episode 102, Reward: 58.83, Avg Reward: 29.18
+Actor Loss: -0.0094, Value Loss: 0.3767, Entropy: 0.3578
+Best Avg Reward: 29.18
+
+Episode 103, Reward: 59.00, Avg Reward: 29.86
+Actor Loss: -0.0101, Value Loss: 0.3082, Entropy: 0.3564
+Best Avg Reward: 29.86
+
+Episode 104, Reward: 118.08, Avg Reward: 31.14
+Actor Loss: -0.0109, Value Loss: 0.9992, Entropy: 0.3556
+Best Avg Reward: 31.14
+
+Episode 105, Reward: 128.70, Avg Reward: 32.51
+Actor Loss: -0.0106, Value Loss: 0.8450, Entropy: 0.3574
+Best Avg Reward: 32.51
+
+Episode 106, Reward: 76.85, Avg Reward: 33.38
+Actor Loss: -0.0089, Value Loss: 0.6951, Entropy: 0.3598
+Best Avg Reward: 33.38
+
+Episode 107, Reward: 83.36, Avg Reward: 34.30
+Actor Loss: -0.0087, Value Loss: 0.4197, Entropy: 0.3617
+Best Avg Reward: 34.30
+
+Episode 108, Reward: 126.79, Avg Reward: 35.67
+Actor Loss: -0.0068, Value Loss: 0.5000, Entropy: 0.3613
+Best Avg Reward: 35.67
+
+Episode 109, Reward: 91.18, Avg Reward: 36.65
+Actor Loss: -0.0092, Value Loss: 0.5011, Entropy: 0.3596
+Best Avg Reward: 36.65
+
+Episode 110, Reward: 62.70, Avg Reward: 37.37
+Actor Loss: -0.0119, Value Loss: 0.7204, Entropy: 0.3595
+Best Avg Reward: 37.37
+
+Episode 111, Reward: 130.07, Avg Reward: 38.78
+Actor Loss: -0.0081, Value Loss: 0.8723, Entropy: 0.3587
+Best Avg Reward: 38.78
+
+Episode 112, Reward: 68.15, Avg Reward: 39.53
+Actor Loss: -0.0101, Value Loss: 0.4237, Entropy: 0.3572
+Best Avg Reward: 39.53
+
+Episode 113, Reward: 96.31, Avg Reward: 40.58
+Actor Loss: -0.0089, Value Loss: 0.5740, Entropy: 0.3558
+Best Avg Reward: 40.58
+
+Episode 114, Reward: 73.76, Avg Reward: 41.42
+Actor Loss: -0.0060, Value Loss: 0.6605, Entropy: 0.3555
+Best Avg Reward: 41.42
+
+Episode 115, Reward: 96.11, Avg Reward: 42.47
+Actor Loss: -0.0055, Value Loss: 0.3438, Entropy: 0.3545
+Best Avg Reward: 42.47
+
+Episode 116, Reward: 110.01, Avg Reward: 43.65
+Actor Loss: -0.0096, Value Loss: 0.4028, Entropy: 0.3523
+Best Avg Reward: 43.65
+
+Episode 117, Reward: 150.37, Avg Reward: 45.20
+Actor Loss: -0.0088, Value Loss: 0.6057, Entropy: 0.3505
+Best Avg Reward: 45.20
+
+Episode 118, Reward: 88.79, Avg Reward: 46.16
+Actor Loss: -0.0103, Value Loss: 0.6653, Entropy: 0.3506
+Best Avg Reward: 46.16
+
+Episode 119, Reward: 76.63, Avg Reward: 46.92
+Actor Loss: -0.0082, Value Loss: 0.7088, Entropy: 0.3516
+Best Avg Reward: 46.92
+
+Episode 120, Reward: 93.19, Avg Reward: 47.86
+Actor Loss: -0.0070, Value Loss: 0.4758, Entropy: 0.3519
+Best Avg Reward: 47.86
+
+Episode 121, Reward: 94.57, Avg Reward: 48.73
+Actor Loss: -0.0077, Value Loss: 0.3161, Entropy: 0.3500
+Best Avg Reward: 48.73
+
+Episode 122, Reward: 114.41, Avg Reward: 49.86
+Actor Loss: -0.0072, Value Loss: 0.5675, Entropy: 0.3476
+Best Avg Reward: 49.86
+
+Episode 123, Reward: 121.64, Avg Reward: 50.99
+Actor Loss: -0.0080, Value Loss: 0.3892, Entropy: 0.3490
+Best Avg Reward: 50.99
+
+Episode 124, Reward: 142.63, Avg Reward: 52.37
+Actor Loss: -0.0074, Value Loss: 0.4292, Entropy: 0.3499
+Best Avg Reward: 52.37
+
+Episode 125, Reward: 148.13, Avg Reward: 53.81
+Actor Loss: -0.0077, Value Loss: 0.4430, Entropy: 0.3506
+Best Avg Reward: 53.81
+
+Episode 126, Reward: 148.19, Avg Reward: 55.20
+Actor Loss: -0.0117, Value Loss: 0.5728, Entropy: 0.3489
+Best Avg Reward: 55.20
+
+Episode 127, Reward: 152.82, Avg Reward: 56.59
+Actor Loss: -0.0094, Value Loss: 0.4194, Entropy: 0.3448
+Best Avg Reward: 56.59
+
+Episode 128, Reward: 149.68, Avg Reward: 57.94
+Actor Loss: -0.0078, Value Loss: 0.4876, Entropy: 0.3412
+Best Avg Reward: 57.94
+
+Episode 129, Reward: 134.96, Avg Reward: 59.16
+Actor Loss: -0.0061, Value Loss: 0.4909, Entropy: 0.3396
+Best Avg Reward: 59.16
+
+Episode 130, Reward: 114.55, Avg Reward: 60.24
+Actor Loss: -0.0076, Value Loss: 1.2108, Entropy: 0.3391
+Best Avg Reward: 60.24
+
+Episode 131, Reward: 131.50, Avg Reward: 61.50
+Actor Loss: -0.0087, Value Loss: 0.3112, Entropy: 0.3379
+Best Avg Reward: 61.50
+
+Episode 132, Reward: 146.23, Avg Reward: 62.79
+Actor Loss: -0.0084, Value Loss: 0.6123, Entropy: 0.3374
+Best Avg Reward: 62.79
+
+Episode 133, Reward: 101.01, Avg Reward: 63.62
+Actor Loss: -0.0081, Value Loss: 0.8794, Entropy: 0.3384
+Best Avg Reward: 63.62
+
+Episode 134, Reward: 98.46, Avg Reward: 64.31
+Actor Loss: -0.0102, Value Loss: 0.8217, Entropy: 0.3371
+Best Avg Reward: 64.31
+
+Episode 135, Reward: 173.03, Avg Reward: 65.90
+Actor Loss: -0.0095, Value Loss: 1.0644, Entropy: 0.3360
+Best Avg Reward: 65.90
+
+Episode 136, Reward: 132.77, Avg Reward: 66.99
+Actor Loss: -0.0099, Value Loss: 0.5353, Entropy: 0.3389
+Best Avg Reward: 66.99
+
+Episode 137, Reward: 150.99, Avg Reward: 68.42
+Actor Loss: -0.0088, Value Loss: 0.5633, Entropy: 0.3399
+Best Avg Reward: 68.42
+
+Episode 138, Reward: 182.45, Avg Reward: 70.02
+Actor Loss: -0.0075, Value Loss: 0.5517, Entropy: 0.3394
+Best Avg Reward: 70.02
+
+Episode 139, Reward: 172.44, Avg Reward: 71.54
+Actor Loss: -0.0110, Value Loss: 0.5752, Entropy: 0.3389
+Best Avg Reward: 71.54
+
+Episode 140, Reward: 100.21, Avg Reward: 72.29
+Actor Loss: -0.0097, Value Loss: 1.8721, Entropy: 0.3378
+Best Avg Reward: 72.29
+
+Episode 141, Reward: 101.10, Avg Reward: 73.19
+Actor Loss: -0.0097, Value Loss: 1.0279, Entropy: 0.3369
+Best Avg Reward: 73.19
+
+Episode 142, Reward: 129.73, Avg Reward: 74.18
+Actor Loss: -0.0087, Value Loss: 0.5610, Entropy: 0.3379
+Best Avg Reward: 74.18
+
+Episode 143, Reward: 153.01, Avg Reward: 75.56
+Actor Loss: -0.0093, Value Loss: 0.4091, Entropy: 0.3383
+Best Avg Reward: 75.56
+
+Episode 144, Reward: 146.33, Avg Reward: 76.89
+Actor Loss: -0.0083, Value Loss: 0.3767, Entropy: 0.3376
+Best Avg Reward: 76.89
+
+Episode 145, Reward: 144.68, Avg Reward: 78.16
+Actor Loss: -0.0098, Value Loss: 0.2945, Entropy: 0.3378
+Best Avg Reward: 78.16
+
+Episode 146, Reward: 120.58, Avg Reward: 79.12
+Actor Loss: -0.0056, Value Loss: 0.3671, Entropy: 0.3387
+Best Avg Reward: 79.12
+
+Episode 147, Reward: 129.71, Avg Reward: 80.21
+Actor Loss: -0.0071, Value Loss: 0.3368, Entropy: 0.3394
+Best Avg Reward: 80.21
+
+Episode 148, Reward: 113.91, Avg Reward: 81.07
+Actor Loss: -0.0107, Value Loss: 0.4374, Entropy: 0.3374
+Best Avg Reward: 81.07
+
+Episode 149, Reward: 143.84, Avg Reward: 82.34
+Actor Loss: -0.0078, Value Loss: 0.4850, Entropy: 0.3357
+Best Avg Reward: 82.34
+
+Episode 150, Reward: 132.01, Avg Reward: 83.44
+Actor Loss: -0.0083, Value Loss: 0.2790, Entropy: 0.3345
+Best Avg Reward: 83.44
+
+Episode 151, Reward: 156.69, Avg Reward: 84.75
+Actor Loss: -0.0091, Value Loss: 0.6265, Entropy: 0.3330
+Best Avg Reward: 84.75
+
+Episode 152, Reward: 130.11, Avg Reward: 85.44
+Actor Loss: -0.0075, Value Loss: 0.4260, Entropy: 0.3356
+Best Avg Reward: 85.44
+
+Episode 153, Reward: 132.11, Avg Reward: 86.35
+Actor Loss: -0.0091, Value Loss: 0.6292, Entropy: 0.3367
+Best Avg Reward: 86.35
+
+Episode 154, Reward: 156.55, Avg Reward: 87.65
+Actor Loss: -0.0097, Value Loss: 0.6966, Entropy: 0.3362
+Best Avg Reward: 87.65
+
+Episode 155, Reward: 114.05, Avg Reward: 88.45
+Actor Loss: -0.0107, Value Loss: 1.2832, Entropy: 0.3371
+Best Avg Reward: 88.45
+
+Episode 156, Reward: 148.63, Avg Reward: 89.48
+Actor Loss: -0.0086, Value Loss: 0.6938, Entropy: 0.3371
+Best Avg Reward: 89.48
+
+Episode 157, Reward: 152.04, Avg Reward: 90.55
+Actor Loss: -0.0093, Value Loss: 0.6287, Entropy: 0.3377
+Best Avg Reward: 90.55
+
+Episode 158, Reward: 217.30, Avg Reward: 92.40
+Actor Loss: -0.0075, Value Loss: 0.7091, Entropy: 0.3392
+Best Avg Reward: 92.40
+
+Episode 159, Reward: 157.76, Avg Reward: 93.72
+Actor Loss: -0.0081, Value Loss: 0.5270, Entropy: 0.3408
+Best Avg Reward: 93.72
+
+Episode 160, Reward: 125.58, Avg Reward: 94.58
+Actor Loss: -0.0075, Value Loss: 1.3968, Entropy: 0.3402
+Best Avg Reward: 94.58
+
+Episode 161, Reward: 121.43, Avg Reward: 95.20
+Actor Loss: -0.0093, Value Loss: 0.9548, Entropy: 0.3375
+Best Avg Reward: 95.20
+
+Episode 162, Reward: 113.43, Avg Reward: 96.02
+Actor Loss: -0.0094, Value Loss: 0.9759, Entropy: 0.3333
+Best Avg Reward: 96.02
+
+Episode 163, Reward: 114.13, Avg Reward: 96.76
+Actor Loss: -0.0070, Value Loss: 0.6089, Entropy: 0.3308
+Best Avg Reward: 96.76
+
+Episode 164, Reward: 156.17, Avg Reward: 98.10
+Actor Loss: -0.0088, Value Loss: 0.6053, Entropy: 0.3340
+Best Avg Reward: 98.10
+
+Episode 165, Reward: 119.51, Avg Reward: 98.99
+Actor Loss: -0.0084, Value Loss: 0.4331, Entropy: 0.3352
+Best Avg Reward: 98.99
+
+Episode 166, Reward: 169.91, Avg Reward: 100.39
+Actor Loss: -0.0083, Value Loss: 0.4489, Entropy: 0.3340
+Best Avg Reward: 100.39
+
+Episode 167, Reward: 166.24, Avg Reward: 101.64
+Actor Loss: -0.0063, Value Loss: 0.4193, Entropy: 0.3332
+Best Avg Reward: 101.64
+
+Episode 168, Reward: 131.38, Avg Reward: 102.46
+Actor Loss: -0.0084, Value Loss: 0.5149, Entropy: 0.3347
+Best Avg Reward: 102.46
+
+Episode 169, Reward: 136.28, Avg Reward: 103.31
+Actor Loss: -0.0093, Value Loss: 0.5298, Entropy: 0.3359
+Best Avg Reward: 103.31
+
+Episode 170, Reward: 190.45, Avg Reward: 104.86
+Actor Loss: -0.0074, Value Loss: 0.5987, Entropy: 0.3373
+Best Avg Reward: 104.86
+
+Episode 171, Reward: 127.32, Avg Reward: 105.68
+Actor Loss: -0.0094, Value Loss: 0.9876, Entropy: 0.3385
+Best Avg Reward: 105.68
+
+Episode 172, Reward: 175.29, Avg Reward: 107.19
+Actor Loss: -0.0078, Value Loss: 0.4984, Entropy: 0.3375
+Best Avg Reward: 107.19
+
+Episode 173, Reward: 148.33, Avg Reward: 108.46
+Actor Loss: -0.0089, Value Loss: 0.8444, Entropy: 0.3364
+Best Avg Reward: 108.46
+
+Episode 174, Reward: 153.99, Avg Reward: 109.59
+Actor Loss: -0.0080, Value Loss: 0.4308, Entropy: 0.3338
+Best Avg Reward: 109.59
+
+Episode 175, Reward: 137.54, Avg Reward: 110.66
+Actor Loss: -0.0097, Value Loss: 0.4856, Entropy: 0.3338
+Best Avg Reward: 110.66
+
+Episode 176, Reward: 219.11, Avg Reward: 112.61
+Actor Loss: -0.0085, Value Loss: 1.0814, Entropy: 0.3322
+Best Avg Reward: 112.61
+
+Episode 177, Reward: 162.21, Avg Reward: 113.91
+Actor Loss: -0.0103, Value Loss: 0.2861, Entropy: 0.3315
+Best Avg Reward: 113.91
+
+Episode 178, Reward: 151.57, Avg Reward: 114.86
+Actor Loss: -0.0061, Value Loss: 0.7919, Entropy: 0.3318
+Best Avg Reward: 114.86
+
+Episode 179, Reward: 165.92, Avg Reward: 115.99
+Actor Loss: -0.0084, Value Loss: 0.6477, Entropy: 0.3308
+Best Avg Reward: 115.99
+
+Episode 180, Reward: 178.89, Avg Reward: 117.35
+Actor Loss: -0.0065, Value Loss: 0.4709, Entropy: 0.3308
+Best Avg Reward: 117.35
+
+Episode 181, Reward: 112.54, Avg Reward: 117.93
+Actor Loss: -0.0084, Value Loss: 0.9774, Entropy: 0.3306
+Best Avg Reward: 117.93
+
+Episode 182, Reward: 210.20, Avg Reward: 119.45
+Actor Loss: -0.0057, Value Loss: 0.9222, Entropy: 0.3296
+Best Avg Reward: 119.45
+
+Episode 183, Reward: 177.60, Avg Reward: 120.66
+Actor Loss: -0.0093, Value Loss: 0.6152, Entropy: 0.3297
+Best Avg Reward: 120.66
+
+Episode 184, Reward: 161.16, Avg Reward: 121.63
+Actor Loss: -0.0069, Value Loss: 0.6698, Entropy: 0.3289
+Best Avg Reward: 121.63
+
+Episode 185, Reward: 104.76, Avg Reward: 122.22
+Actor Loss: -0.0101, Value Loss: 1.6421, Entropy: 0.3269
+Best Avg Reward: 122.22
+
+Episode 186, Reward: 94.18, Avg Reward: 122.22
+Actor Loss: -0.0057, Value Loss: 1.3709, Entropy: 0.3258
+Best Avg Reward: 122.22
+
+Episode 187, Reward: 119.12, Avg Reward: 122.46
+Actor Loss: -0.0053, Value Loss: 0.4772, Entropy: 0.3259
+Best Avg Reward: 122.46
+
+Episode 188, Reward: 128.27, Avg Reward: 123.18
+Actor Loss: -0.0070, Value Loss: 0.2908, Entropy: 0.3252
+Best Avg Reward: 123.18
+
+Episode 189, Reward: 147.00, Avg Reward: 123.88
+Actor Loss: -0.0069, Value Loss: 0.6119, Entropy: 0.3215
+Best Avg Reward: 123.88
+
+Episode 190, Reward: 138.22, Avg Reward: 124.66
+Actor Loss: -0.0079, Value Loss: 0.4165, Entropy: 0.3194
+Best Avg Reward: 124.66
+
+Episode 191, Reward: 148.74, Avg Reward: 125.05
+Actor Loss: -0.0096, Value Loss: 0.5242, Entropy: 0.3178
+Best Avg Reward: 125.05
+
+Episode 192, Reward: 198.43, Avg Reward: 126.01
+Actor Loss: -0.0095, Value Loss: 0.8733, Entropy: 0.3168
+Best Avg Reward: 126.01
+
+Episode 193, Reward: 135.08, Avg Reward: 126.60
+Actor Loss: -0.0089, Value Loss: 1.2554, Entropy: 0.3179
+Best Avg Reward: 126.60
+
+Episode 194, Reward: 179.55, Avg Reward: 127.39
+Actor Loss: -0.0078, Value Loss: 0.7302, Entropy: 0.3165
+Best Avg Reward: 127.39
+
+Episode 195, Reward: 169.79, Avg Reward: 128.57
+Actor Loss: -0.0047, Value Loss: 0.5863, Entropy: 0.3156
+Best Avg Reward: 128.57
+
+Episode 196, Reward: 200.64, Avg Reward: 130.06
+Actor Loss: -0.0084, Value Loss: 0.5536, Entropy: 0.3158
+Best Avg Reward: 130.06
+
+Episode 197, Reward: 155.79, Avg Reward: 131.20
+Actor Loss: -0.0082, Value Loss: 1.1244, Entropy: 0.3132
+Best Avg Reward: 131.20
+
+Episode 198, Reward: 189.86, Avg Reward: 132.51
+Actor Loss: -0.0058, Value Loss: 0.5930, Entropy: 0.3123
+Best Avg Reward: 132.51
+
+Episode 199, Reward: 145.29, Avg Reward: 133.52
+Actor Loss: -0.0102, Value Loss: 1.0535, Entropy: 0.3115
+Best Avg Reward: 133.52
+
+Episode 200, Reward: 156.73, Avg Reward: 134.69
+Actor Loss: -0.0094, Value Loss: 0.7283, Entropy: 0.3087
+Best Avg Reward: 134.69
+
+Episode 201, Reward: 135.67, Avg Reward: 135.53
+Actor Loss: -0.0089, Value Loss: 0.9488, Entropy: 0.3055
+Best Avg Reward: 135.53
+
+Episode 202, Reward: 135.33, Avg Reward: 136.29
+Actor Loss: -0.0083, Value Loss: 0.4069, Entropy: 0.3018
+Best Avg Reward: 136.29
+
+Episode 203, Reward: 133.42, Avg Reward: 137.04
+Actor Loss: -0.0096, Value Loss: 0.4687, Entropy: 0.3001
+Best Avg Reward: 137.04
+
+Episode 204, Reward: 123.09, Avg Reward: 137.09
+Actor Loss: -0.0070, Value Loss: 0.5690, Entropy: 0.3005
+Best Avg Reward: 137.09
+
+Episode 205, Reward: 106.03, Avg Reward: 136.86
+Actor Loss: -0.0079, Value Loss: 0.9746, Entropy: 0.2993
+Best Avg Reward: 137.09
+
+Episode 206, Reward: 110.29, Avg Reward: 137.20
+Actor Loss: -0.0091, Value Loss: 0.6434, Entropy: 0.2977
+Best Avg Reward: 137.20
+
+Episode 207, Reward: 101.44, Avg Reward: 137.38
+Actor Loss: -0.0059, Value Loss: 0.6053, Entropy: 0.2968
+Best Avg Reward: 137.38
+
+Episode 208, Reward: 115.07, Avg Reward: 137.26
+Actor Loss: -0.0089, Value Loss: 0.2996, Entropy: 0.2955
+Best Avg Reward: 137.38
+
+Episode 209, Reward: 106.36, Avg Reward: 137.41
+Actor Loss: -0.0089, Value Loss: 0.4829, Entropy: 0.2946
+Best Avg Reward: 137.41
+
+Episode 210, Reward: 153.93, Avg Reward: 138.32
+Actor Loss: -0.0082, Value Loss: 0.7939, Entropy: 0.2942
+Best Avg Reward: 138.32
+
+Episode 211, Reward: 124.10, Avg Reward: 138.26
+Actor Loss: -0.0074, Value Loss: 0.5131, Entropy: 0.2952
+Best Avg Reward: 138.32
+
+Episode 212, Reward: 169.37, Avg Reward: 139.28
+Actor Loss: -0.0071, Value Loss: 0.7992, Entropy: 0.2948
+Best Avg Reward: 139.28
+
+Episode 213, Reward: 77.70, Avg Reward: 139.09
+Actor Loss: -0.0115, Value Loss: 3.4698, Entropy: 0.2947
+Best Avg Reward: 139.28
+
+Episode 214, Reward: 91.96, Avg Reward: 139.27
+Actor Loss: -0.0090, Value Loss: 0.9840, Entropy: 0.2930
+Best Avg Reward: 139.28
+
+Episode 215, Reward: 197.77, Avg Reward: 140.29
+Actor Loss: -0.0091, Value Loss: 1.4624, Entropy: 0.2937
+Best Avg Reward: 140.29
+
+Episode 216, Reward: 188.14, Avg Reward: 141.07
+Actor Loss: -0.0088, Value Loss: 1.1750, Entropy: 0.2943
+Best Avg Reward: 141.07
+
+Episode 217, Reward: 158.48, Avg Reward: 141.15
+Actor Loss: -0.0096, Value Loss: 0.9470, Entropy: 0.2923
+Best Avg Reward: 141.15
+
+Episode 218, Reward: 134.04, Avg Reward: 141.60
+Actor Loss: -0.0088, Value Loss: 0.8565, Entropy: 0.2903
+Best Avg Reward: 141.60
+
+Episode 219, Reward: 134.70, Avg Reward: 142.19
+Actor Loss: -0.0081, Value Loss: 0.5181, Entropy: 0.2888
+Best Avg Reward: 142.19
+
+Episode 220, Reward: 138.29, Avg Reward: 142.64
+Actor Loss: -0.0105, Value Loss: 0.6807, Entropy: 0.2866
+Best Avg Reward: 142.64
+
+Episode 221, Reward: 195.41, Avg Reward: 143.64
+Actor Loss: -0.0064, Value Loss: 0.5406, Entropy: 0.2854
+Best Avg Reward: 143.64
+
+Episode 222, Reward: 197.20, Avg Reward: 144.47
+Actor Loss: -0.0090, Value Loss: 0.4396, Entropy: 0.2839
+Best Avg Reward: 144.47
+
+Episode 223, Reward: 172.54, Avg Reward: 144.98
+Actor Loss: -0.0071, Value Loss: 0.4570, Entropy: 0.2827
+Best Avg Reward: 144.98
+
+Episode 224, Reward: 198.06, Avg Reward: 145.54
+Actor Loss: -0.0069, Value Loss: 0.6233, Entropy: 0.2829
+Best Avg Reward: 145.54
+
+Episode 225, Reward: 158.35, Avg Reward: 145.64
+Actor Loss: -0.0087, Value Loss: 0.4318, Entropy: 0.2809
+Best Avg Reward: 145.64
+
+Episode 226, Reward: 138.41, Avg Reward: 145.54
+Actor Loss: -0.0085, Value Loss: 0.7252, Entropy: 0.2804
+Best Avg Reward: 145.64
+
+Episode 227, Reward: 204.38, Avg Reward: 146.06
+Actor Loss: -0.0064, Value Loss: 0.7806, Entropy: 0.2783
+Best Avg Reward: 146.06
+
+Episode 228, Reward: 123.31, Avg Reward: 145.79
+Actor Loss: -0.0101, Value Loss: 1.2850, Entropy: 0.2755
+Best Avg Reward: 146.06
+
+Episode 229, Reward: 190.35, Avg Reward: 146.35
+Actor Loss: -0.0067, Value Loss: 0.6693, Entropy: 0.2733
+Best Avg Reward: 146.35
+
+Episode 230, Reward: 168.39, Avg Reward: 146.88
+Actor Loss: -0.0079, Value Loss: 0.7028, Entropy: 0.2762
+Best Avg Reward: 146.88
+
+Episode 231, Reward: 236.09, Avg Reward: 147.93
+Actor Loss: -0.0076, Value Loss: 0.6718, Entropy: 0.2775
+Best Avg Reward: 147.93
+
+Episode 232, Reward: 184.46, Avg Reward: 148.31
+Actor Loss: -0.0083, Value Loss: 0.6698, Entropy: 0.2791
+Best Avg Reward: 148.31
+
+Episode 233, Reward: 161.18, Avg Reward: 148.91
+Actor Loss: -0.0067, Value Loss: 0.6877, Entropy: 0.2788
+Best Avg Reward: 148.91
+
+Episode 234, Reward: 220.81, Avg Reward: 150.14
+Actor Loss: -0.0081, Value Loss: 0.5381, Entropy: 0.2779
+Best Avg Reward: 150.14
+
+Episode 235, Reward: 210.54, Avg Reward: 150.51
+Actor Loss: -0.0069, Value Loss: 0.4448, Entropy: 0.2754
+Best Avg Reward: 150.51
+
+Episode 236, Reward: 157.38, Avg Reward: 150.76
+Actor Loss: -0.0086, Value Loss: 1.2864, Entropy: 0.2721
+Best Avg Reward: 150.76
+
+Episode 237, Reward: 194.32, Avg Reward: 151.19
+Actor Loss: -0.0075, Value Loss: 0.4252, Entropy: 0.2684
+Best Avg Reward: 151.19
+
+Episode 238, Reward: 141.37, Avg Reward: 150.78
+Actor Loss: -0.0104, Value Loss: 1.5296, Entropy: 0.2657
+Best Avg Reward: 151.19
+
+Episode 239, Reward: 216.29, Avg Reward: 151.22
+Actor Loss: -0.0106, Value Loss: 0.9964, Entropy: 0.2653
+Best Avg Reward: 151.22
+
+Episode 240, Reward: 215.96, Avg Reward: 152.38
+Actor Loss: -0.0078, Value Loss: 0.7826, Entropy: 0.2688
+Best Avg Reward: 152.38
+
+Episode 241, Reward: 214.63, Avg Reward: 153.51
+Actor Loss: -0.0097, Value Loss: 0.7841, Entropy: 0.2703
+Best Avg Reward: 153.51
+
+Episode 242, Reward: 157.74, Avg Reward: 153.79
+Actor Loss: -0.0087, Value Loss: 1.2723, Entropy: 0.2696
+Best Avg Reward: 153.79
+
+Episode 243, Reward: 202.86, Avg Reward: 154.29
+Actor Loss: -0.0104, Value Loss: 0.4924, Entropy: 0.2693
+Best Avg Reward: 154.29
+
+Episode 244, Reward: 212.92, Avg Reward: 154.96
+Actor Loss: -0.0106, Value Loss: 0.4264, Entropy: 0.2690
+Best Avg Reward: 154.96
+
+Episode 245, Reward: 154.28, Avg Reward: 155.05
+Actor Loss: -0.0077, Value Loss: 1.0048, Entropy: 0.2675
+Best Avg Reward: 155.05
+
+Episode 246, Reward: 197.12, Avg Reward: 155.82
+Actor Loss: -0.0075, Value Loss: 0.8440, Entropy: 0.2684
+Best Avg Reward: 155.82
+
+Episode 247, Reward: 216.35, Avg Reward: 156.68
+Actor Loss: -0.0090, Value Loss: 0.6732, Entropy: 0.2687
+Best Avg Reward: 156.68
+
+Episode 248, Reward: 232.69, Avg Reward: 157.87
+Actor Loss: -0.0075, Value Loss: 0.3816, Entropy: 0.2687
+Best Avg Reward: 157.87
+
+Episode 249, Reward: 238.77, Avg Reward: 158.82
+Actor Loss: -0.0084, Value Loss: 0.6752, Entropy: 0.2688
+Best Avg Reward: 158.82
+
+Episode 250, Reward: 215.33, Avg Reward: 159.65
+Actor Loss: -0.0106, Value Loss: 0.6412, Entropy: 0.2655
+Best Avg Reward: 159.65
+
+Episode 251, Reward: 224.27, Avg Reward: 160.33
+Actor Loss: -0.0104, Value Loss: 0.4677, Entropy: 0.2615
+Best Avg Reward: 160.33
+
+Episode 252, Reward: 195.59, Avg Reward: 160.99
+Actor Loss: -0.0078, Value Loss: 0.8733, Entropy: 0.2572
+Best Avg Reward: 160.99
+
+Episode 253, Reward: 188.68, Avg Reward: 161.55
+Actor Loss: -0.0120, Value Loss: 1.0561, Entropy: 0.2572
+Best Avg Reward: 161.55
+
+Episode 254, Reward: 204.65, Avg Reward: 162.03
+Actor Loss: -0.0101, Value Loss: 0.4467, Entropy: 0.2565
+Best Avg Reward: 162.03
+
+Episode 255, Reward: 218.46, Avg Reward: 163.08
+Actor Loss: -0.0096, Value Loss: 0.3935, Entropy: 0.2569
+Best Avg Reward: 163.08
+
+Episode 256, Reward: 161.34, Avg Reward: 163.20
+Actor Loss: -0.0088, Value Loss: 1.3709, Entropy: 0.2563
+Best Avg Reward: 163.20
+
+Episode 257, Reward: 176.68, Avg Reward: 163.45
+Actor Loss: -0.0084, Value Loss: 0.4518, Entropy: 0.2554
+Best Avg Reward: 163.45
+
+Episode 258, Reward: 219.10, Avg Reward: 163.47
+Actor Loss: -0.0103, Value Loss: 0.3043, Entropy: 0.2531
+Best Avg Reward: 163.47
+
+Episode 259, Reward: 206.99, Avg Reward: 163.96
+Actor Loss: -0.0105, Value Loss: 0.2894, Entropy: 0.2516
+Best Avg Reward: 163.96
+
+Episode 260, Reward: 196.85, Avg Reward: 164.67
+Actor Loss: -0.0076, Value Loss: 0.4135, Entropy: 0.2507
+Best Avg Reward: 164.67
+
+Episode 261, Reward: 167.77, Avg Reward: 165.14
+Actor Loss: -0.0120, Value Loss: 0.7621, Entropy: 0.2472
+Best Avg Reward: 165.14
+
+Episode 262, Reward: 239.63, Avg Reward: 166.40
+Actor Loss: -0.0124, Value Loss: 1.0280, Entropy: 0.2446
+Best Avg Reward: 166.40
+
+Episode 263, Reward: 249.88, Avg Reward: 167.76
+Actor Loss: -0.0105, Value Loss: 0.9195, Entropy: 0.2456
+Best Avg Reward: 167.76
+
+Episode 264, Reward: 242.55, Avg Reward: 168.62
+Actor Loss: -0.0094, Value Loss: 0.7730, Entropy: 0.2451
+Best Avg Reward: 168.62
+
+Episode 265, Reward: 256.37, Avg Reward: 169.99
+Actor Loss: -0.0094, Value Loss: 0.6953, Entropy: 0.2441
+Best Avg Reward: 169.99
+
+Episode 266, Reward: 169.79, Avg Reward: 169.99
+Actor Loss: -0.0121, Value Loss: 2.5653, Entropy: 0.2435
+Best Avg Reward: 169.99
+
+Episode 267, Reward: 256.30, Avg Reward: 170.89
+Actor Loss: -0.0103, Value Loss: 1.3543, Entropy: 0.2436
+Best Avg Reward: 170.89
+
+Episode 268, Reward: 254.57, Avg Reward: 172.12
+Actor Loss: -0.0077, Value Loss: 0.8017, Entropy: 0.2439
+Best Avg Reward: 172.12
+
+Episode 269, Reward: 233.02, Avg Reward: 173.09
+Actor Loss: -0.0094, Value Loss: 0.4756, Entropy: 0.2422
+Best Avg Reward: 173.09
+
+Episode 270, Reward: 279.04, Avg Reward: 173.97
+Actor Loss: -0.0076, Value Loss: 0.7005, Entropy: 0.2426
+Best Avg Reward: 173.97
+
+Episode 271, Reward: 191.20, Avg Reward: 174.61
+Actor Loss: -0.0115, Value Loss: 1.4444, Entropy: 0.2438
+Best Avg Reward: 174.61
+
+Episode 272, Reward: 212.91, Avg Reward: 174.99
+Actor Loss: -0.0059, Value Loss: 0.8469, Entropy: 0.2412
+Best Avg Reward: 174.99
+
+Episode 273, Reward: 225.82, Avg Reward: 175.76
+Actor Loss: -0.0080, Value Loss: 0.3687, Entropy: 0.2391
+Best Avg Reward: 175.76
+
+Episode 274, Reward: 200.71, Avg Reward: 176.23
+Actor Loss: -0.0109, Value Loss: 0.6933, Entropy: 0.2380
+Best Avg Reward: 176.23
+
+Episode 275, Reward: 305.93, Avg Reward: 177.91
+Actor Loss: -0.0111, Value Loss: 1.4777, Entropy: 0.2381
+Best Avg Reward: 177.91
+
+Episode 276, Reward: 300.43, Avg Reward: 178.73
+Actor Loss: -0.0114, Value Loss: 0.9974, Entropy: 0.2379
+Best Avg Reward: 178.73
+
+Episode 277, Reward: 261.78, Avg Reward: 179.72
+Actor Loss: -0.0080, Value Loss: 0.6539, Entropy: 0.2370
+Best Avg Reward: 179.72
+
+Episode 278, Reward: 214.95, Avg Reward: 180.36
+Actor Loss: -0.0123, Value Loss: 1.0680, Entropy: 0.2333
+Best Avg Reward: 180.36
+
+Episode 279, Reward: 214.42, Avg Reward: 180.84
+Actor Loss: -0.0098, Value Loss: 0.5149, Entropy: 0.2312
+Best Avg Reward: 180.84
+
+Episode 280, Reward: 239.45, Avg Reward: 181.45
+Actor Loss: -0.0083, Value Loss: 0.4664, Entropy: 0.2295
+Best Avg Reward: 181.45
+
+Episode 281, Reward: 203.39, Avg Reward: 182.36
+Actor Loss: -0.0074, Value Loss: 1.0343, Entropy: 0.2276
+Best Avg Reward: 182.36
+
+Episode 282, Reward: 242.78, Avg Reward: 182.68
+Actor Loss: -0.0089, Value Loss: 0.4987, Entropy: 0.2263
+Best Avg Reward: 182.68
+
+Episode 283, Reward: 208.36, Avg Reward: 182.99
+Actor Loss: -0.0081, Value Loss: 0.5561, Entropy: 0.2238
+Best Avg Reward: 182.99
+
+Episode 284, Reward: 189.51, Avg Reward: 183.27
+Actor Loss: -0.0125, Value Loss: 0.7499, Entropy: 0.2183
+Best Avg Reward: 183.27
+
+Episode 285, Reward: 265.00, Avg Reward: 184.87
+Actor Loss: -0.0091, Value Loss: 0.8556, Entropy: 0.2144
+Best Avg Reward: 184.87
+
+Episode 286, Reward: 135.09, Avg Reward: 185.28
+Actor Loss: -0.0100, Value Loss: 4.4671, Entropy: 0.2130
+Best Avg Reward: 185.28
+
+Episode 287, Reward: 143.79, Avg Reward: 185.53
+Actor Loss: -0.0070, Value Loss: 1.0946, Entropy: 0.2111
+Best Avg Reward: 185.53
+
+Episode 288, Reward: 196.01, Avg Reward: 186.21
+Actor Loss: -0.0056, Value Loss: 0.7455, Entropy: 0.2103
+Best Avg Reward: 186.21
+
+Episode 289, Reward: 155.60, Avg Reward: 186.29
+Actor Loss: -0.0073, Value Loss: 0.6255, Entropy: 0.2099
+Best Avg Reward: 186.29
+
+Episode 290, Reward: 152.73, Avg Reward: 186.44
+Actor Loss: -0.0075, Value Loss: 0.3512, Entropy: 0.2088
+Best Avg Reward: 186.44
+
+Episode 291, Reward: 190.75, Avg Reward: 186.86
+Actor Loss: -0.0120, Value Loss: 0.9521, Entropy: 0.2084
+Best Avg Reward: 186.86
+
+Episode 292, Reward: 160.38, Avg Reward: 186.48
+Actor Loss: -0.0092, Value Loss: 0.3987, Entropy: 0.2066
+Best Avg Reward: 186.86
+
+Episode 293, Reward: 212.19, Avg Reward: 187.25
+Actor Loss: -0.0106, Value Loss: 0.8639, Entropy: 0.2044
+Best Avg Reward: 187.25
+
+Episode 294, Reward: 161.75, Avg Reward: 187.07
+Actor Loss: -0.0106, Value Loss: 0.4262, Entropy: 0.2020
+Best Avg Reward: 187.25
+
+Episode 295, Reward: 251.48, Avg Reward: 187.89
+Actor Loss: -0.0111, Value Loss: 1.4106, Entropy: 0.2007
+Best Avg Reward: 187.89
+
+Episode 296, Reward: 130.99, Avg Reward: 187.19
+Actor Loss: -0.0092, Value Loss: 1.8496, Entropy: 0.2001
+Best Avg Reward: 187.89
+
+Episode 297, Reward: 243.20, Avg Reward: 188.07
+Actor Loss: -0.0096, Value Loss: 1.9923, Entropy: 0.2011
+Best Avg Reward: 188.07
+
+Episode 298, Reward: 259.02, Avg Reward: 188.76
+Actor Loss: -0.0103, Value Loss: 1.6551, Entropy: 0.2010
+Best Avg Reward: 188.76
+
+Episode 299, Reward: 169.93, Avg Reward: 189.00
+Actor Loss: -0.0052, Value Loss: 1.0891, Entropy: 0.1985
+Best Avg Reward: 189.00
+
+Episode 300, Reward: 185.79, Avg Reward: 189.29
+Actor Loss: -0.0134, Value Loss: 0.3145, Entropy: 0.1960
+Best Avg Reward: 189.29
+
+Episode 301, Reward: 108.41, Avg Reward: 189.02
+Actor Loss: -0.0100, Value Loss: 6.4342, Entropy: 0.1914
+Best Avg Reward: 189.29
+
+Episode 302, Reward: 180.71, Avg Reward: 189.48
+Actor Loss: -0.0075, Value Loss: 1.6488, Entropy: 0.1897
+Best Avg Reward: 189.48
+
+Episode 303, Reward: 197.98, Avg Reward: 190.12
+Actor Loss: -0.0095, Value Loss: 1.2580, Entropy: 0.1902
+Best Avg Reward: 190.12
+
+Episode 304, Reward: 214.17, Avg Reward: 191.03
+Actor Loss: -0.0084, Value Loss: 0.7378, Entropy: 0.1898
+Best Avg Reward: 191.03
+
+Episode 305, Reward: 203.50, Avg Reward: 192.01
+Actor Loss: -0.0094, Value Loss: 0.6499, Entropy: 0.1878
+Best Avg Reward: 192.01
+
+Episode 306, Reward: 202.92, Avg Reward: 192.93
+Actor Loss: -0.0076, Value Loss: 0.5248, Entropy: 0.1857
+Best Avg Reward: 192.93
+
+Episode 307, Reward: 198.10, Avg Reward: 193.90
+Actor Loss: -0.0101, Value Loss: 0.4201, Entropy: 0.1823
+Best Avg Reward: 193.90
+
+Episode 308, Reward: 147.36, Avg Reward: 194.22
+Actor Loss: -0.0112, Value Loss: 2.6277, Entropy: 0.1783
+Best Avg Reward: 194.22
+
+Episode 309, Reward: 149.76, Avg Reward: 194.66
+Actor Loss: -0.0096, Value Loss: 0.6206, Entropy: 0.1756
+Best Avg Reward: 194.66
+
+Episode 310, Reward: 143.54, Avg Reward: 194.55
+Actor Loss: -0.0093, Value Loss: 0.3206, Entropy: 0.1726
+Best Avg Reward: 194.66
+
+Episode 311, Reward: 175.76, Avg Reward: 195.07
+Actor Loss: -0.0078, Value Loss: 0.7913, Entropy: 0.1708
+Best Avg Reward: 195.07
+
+Episode 312, Reward: 128.42, Avg Reward: 194.66
+Actor Loss: -0.0100, Value Loss: 0.6716, Entropy: 0.1718
+Best Avg Reward: 195.07
+
+Episode 313, Reward: 97.96, Avg Reward: 194.86
+Actor Loss: -0.0090, Value Loss: 2.2739, Entropy: 0.1682
+Best Avg Reward: 195.07
+
+Episode 314, Reward: 277.56, Avg Reward: 196.72
+Actor Loss: -0.0090, Value Loss: 3.6284, Entropy: 0.1651
+Best Avg Reward: 196.72
+
+Episode 315, Reward: 181.58, Avg Reward: 196.56
+Actor Loss: -0.0079, Value Loss: 1.2298, Entropy: 0.1666
+Best Avg Reward: 196.72
+
+Episode 316, Reward: 192.11, Avg Reward: 196.60
+Actor Loss: -0.0075, Value Loss: 1.2336, Entropy: 0.1654
+Best Avg Reward: 196.72
+
+Episode 317, Reward: 193.36, Avg Reward: 196.95
+Actor Loss: -0.0096, Value Loss: 0.7815, Entropy: 0.1631
+Best Avg Reward: 196.95
+
+Episode 318, Reward: 190.67, Avg Reward: 197.51
+Actor Loss: -0.0056, Value Loss: 0.5355, Entropy: 0.1605
+Best Avg Reward: 197.51
+
+Episode 319, Reward: 196.65, Avg Reward: 198.13
+Actor Loss: -0.0061, Value Loss: 0.6655, Entropy: 0.1599
+Best Avg Reward: 198.13
+
+Episode 320, Reward: 193.96, Avg Reward: 198.69
+Actor Loss: -0.0073, Value Loss: 0.4006, Entropy: 0.1599
+Best Avg Reward: 198.69
+
+Episode 321, Reward: 153.35, Avg Reward: 198.27
+Actor Loss: -0.0075, Value Loss: 1.6004, Entropy: 0.1585
+Best Avg Reward: 198.69
+
+Episode 322, Reward: 211.55, Avg Reward: 198.41
+Actor Loss: -0.0073, Value Loss: 1.1342, Entropy: 0.1570
+Best Avg Reward: 198.69
+
+Episode 323, Reward: 220.39, Avg Reward: 198.89
+Actor Loss: -0.0095, Value Loss: 1.1617, Entropy: 0.1569
+Best Avg Reward: 198.89
+
+Episode 324, Reward: 185.13, Avg Reward: 198.76
+Actor Loss: -0.0076, Value Loss: 1.0602, Entropy: 0.1564
+Best Avg Reward: 198.89
+
+Episode 325, Reward: 167.29, Avg Reward: 198.85
+Actor Loss: -0.0066, Value Loss: 0.4839, Entropy: 0.1535
+Best Avg Reward: 198.89
+
+Episode 326, Reward: 251.70, Avg Reward: 199.98
+Actor Loss: -0.0080, Value Loss: 1.7811, Entropy: 0.1529
+Best Avg Reward: 199.98
+
+Episode 327, Reward: 226.60, Avg Reward: 200.20
+Actor Loss: -0.0082, Value Loss: 1.6364, Entropy: 0.1529
+Best Avg Reward: 200.20
+
+Episode 328, Reward: 197.81, Avg Reward: 200.95
+Actor Loss: -0.0062, Value Loss: 0.9593, Entropy: 0.1524
+Best Avg Reward: 200.95
+
+Episode 329, Reward: 98.96, Avg Reward: 200.04
+Actor Loss: -0.0125, Value Loss: 11.2249, Entropy: 0.1497
+Best Avg Reward: 200.95
+
+Episode 330, Reward: 192.36, Avg Reward: 200.28
+Actor Loss: -0.0087, Value Loss: 2.2517, Entropy: 0.1480
+Best Avg Reward: 200.95
+
+Episode 331, Reward: 120.18, Avg Reward: 199.12
+Actor Loss: -0.0080, Value Loss: 1.0046, Entropy: 0.1488
+Best Avg Reward: 200.95
+
+Episode 332, Reward: 112.24, Avg Reward: 198.39
+Actor Loss: -0.0055, Value Loss: 0.7496, Entropy: 0.1454
+Best Avg Reward: 200.95
+
+Episode 333, Reward: 151.53, Avg Reward: 198.30
+Actor Loss: -0.0067, Value Loss: 0.8930, Entropy: 0.1427
+Best Avg Reward: 200.95
+
+Episode 334, Reward: 259.32, Avg Reward: 198.68
+Actor Loss: -0.0087, Value Loss: 2.0009, Entropy: 0.1428
+Best Avg Reward: 200.95
+
+Episode 335, Reward: 216.63, Avg Reward: 198.74
+Actor Loss: -0.0070, Value Loss: 1.2997, Entropy: 0.1429
+Best Avg Reward: 200.95
+
+Episode 336, Reward: 96.28, Avg Reward: 198.13
+Actor Loss: -0.0111, Value Loss: 6.9815, Entropy: 0.1430
+Best Avg Reward: 200.95
+
+Episode 337, Reward: 197.39, Avg Reward: 198.16
+Actor Loss: -0.0095, Value Loss: 2.3550, Entropy: 0.1430
+Best Avg Reward: 200.95
+
+Episode 338, Reward: 246.48, Avg Reward: 199.21
+Actor Loss: -0.0139, Value Loss: 1.7171, Entropy: 0.1432
+Best Avg Reward: 200.95
+
+Episode 339, Reward: 177.10, Avg Reward: 198.82
+Actor Loss: -0.0090, Value Loss: 2.1448, Entropy: 0.1409
+Best Avg Reward: 200.95
+
+Episode 340, Reward: 254.76, Avg Reward: 199.21
+Actor Loss: -0.0088, Value Loss: 1.7332, Entropy: 0.1393
+Best Avg Reward: 200.95
+
+Episode 341, Reward: 149.99, Avg Reward: 198.56
+Actor Loss: -0.0103, Value Loss: 2.0927, Entropy: 0.1379
+Best Avg Reward: 200.95
+
+Episode 342, Reward: 154.04, Avg Reward: 198.53
+Actor Loss: -0.0079, Value Loss: 0.9825, Entropy: 0.1358
+Best Avg Reward: 200.95
+
+Episode 343, Reward: 145.26, Avg Reward: 197.95
+Actor Loss: -0.0084, Value Loss: 0.9743, Entropy: 0.1336
+Best Avg Reward: 200.95
+
+Episode 344, Reward: 182.64, Avg Reward: 197.65
+Actor Loss: -0.0055, Value Loss: 0.7455, Entropy: 0.1346
+Best Avg Reward: 200.95
+
+Episode 345, Reward: 182.31, Avg Reward: 197.93
+Actor Loss: -0.0058, Value Loss: 0.5559, Entropy: 0.1362
+Best Avg Reward: 200.95
+
+Episode 346, Reward: 105.77, Avg Reward: 197.01
+Actor Loss: -0.0103, Value Loss: 4.8603, Entropy: 0.1351
+Best Avg Reward: 200.95
+
+Episode 347, Reward: 115.27, Avg Reward: 196.00
+Actor Loss: -0.0079, Value Loss: 0.6834, Entropy: 0.1300
+Best Avg Reward: 200.95
+
+Episode 348, Reward: 178.00, Avg Reward: 195.46
+Actor Loss: -0.0085, Value Loss: 1.3034, Entropy: 0.1266
+Best Avg Reward: 200.95
+
+Episode 349, Reward: 120.17, Avg Reward: 194.27
+Actor Loss: -0.0089, Value Loss: 0.8021, Entropy: 0.1239
+Best Avg Reward: 200.95
+
+Episode 350, Reward: 174.37, Avg Reward: 193.86
+Actor Loss: -0.0089, Value Loss: 1.4882, Entropy: 0.1196
+Best Avg Reward: 200.95
+
+Episode 351, Reward: 79.79, Avg Reward: 192.42
+Actor Loss: -0.0094, Value Loss: 3.9441, Entropy: 0.1173
+Best Avg Reward: 200.95
+
+Episode 352, Reward: 128.96, Avg Reward: 191.75
+Actor Loss: -0.0085, Value Loss: 0.8885, Entropy: 0.1164
+Best Avg Reward: 200.95
+
+Episode 353, Reward: 109.00, Avg Reward: 190.95
+Actor Loss: -0.0105, Value Loss: 0.4239, Entropy: 0.1169
+Best Avg Reward: 200.95
+
+Episode 354, Reward: 142.35, Avg Reward: 190.33
+Actor Loss: -0.0125, Value Loss: 0.9431, Entropy: 0.1185
+Best Avg Reward: 200.95
+
+Episode 355, Reward: 129.94, Avg Reward: 189.45
+Actor Loss: -0.0064, Value Loss: 0.6220, Entropy: 0.1196
+Best Avg Reward: 200.95
+
+Episode 356, Reward: 114.45, Avg Reward: 188.98
+Actor Loss: -0.0101, Value Loss: 0.4388, Entropy: 0.1192
+Best Avg Reward: 200.95
+
+Episode 357, Reward: 103.08, Avg Reward: 188.24
+Actor Loss: -0.0039, Value Loss: 0.5289, Entropy: 0.1182
+Best Avg Reward: 200.95
+
+Episode 358, Reward: 111.25, Avg Reward: 187.16
+Actor Loss: -0.0051, Value Loss: 0.3573, Entropy: 0.1184
+Best Avg Reward: 200.95
+
+Episode 359, Reward: 101.42, Avg Reward: 186.11
+Actor Loss: -0.0079, Value Loss: 0.2771, Entropy: 0.1178
+Best Avg Reward: 200.95
+
+Episode 360, Reward: 137.55, Avg Reward: 185.51
+Actor Loss: -0.0091, Value Loss: 0.6354, Entropy: 0.1165
+Best Avg Reward: 200.95
+
+Episode 361, Reward: 98.67, Avg Reward: 184.82
+Actor Loss: -0.0130, Value Loss: 0.6595, Entropy: 0.1139
+Best Avg Reward: 200.95
+
+Episode 362, Reward: 142.98, Avg Reward: 183.86
+Actor Loss: -0.0092, Value Loss: 1.9205, Entropy: 0.1095
+Best Avg Reward: 200.95
+
+Episode 363, Reward: 132.07, Avg Reward: 182.68
+Actor Loss: -0.0060, Value Loss: 0.5541, Entropy: 0.1074
+Best Avg Reward: 200.95
+
+Episode 364, Reward: 166.73, Avg Reward: 181.92
+Actor Loss: -0.0091, Value Loss: 0.8787, Entropy: 0.1053
+Best Avg Reward: 200.95
+
+Episode 365, Reward: 184.89, Avg Reward: 181.20
+Actor Loss: -0.0042, Value Loss: 0.7462, Entropy: 0.1044
+Best Avg Reward: 200.95
+
+Episode 366, Reward: 158.66, Avg Reward: 181.09
+Actor Loss: -0.0135, Value Loss: 1.1341, Entropy: 0.1020
+Best Avg Reward: 200.95
+
+Episode 367, Reward: 122.26, Avg Reward: 179.75
+Actor Loss: -0.0065, Value Loss: 1.8759, Entropy: 0.0974
+Best Avg Reward: 200.95
+
+Episode 368, Reward: 127.97, Avg Reward: 178.49
+Actor Loss: -0.0053, Value Loss: 0.6036, Entropy: 0.0930
+Best Avg Reward: 200.95
+
+Episode 369, Reward: 133.33, Avg Reward: 177.49
+Actor Loss: -0.0052, Value Loss: 0.7191, Entropy: 0.0910
+Best Avg Reward: 200.95
+
+Episode 370, Reward: 209.72, Avg Reward: 176.80
+Actor Loss: -0.0056, Value Loss: 1.5616, Entropy: 0.0919
+Best Avg Reward: 200.95
+
+Episode 371, Reward: 107.25, Avg Reward: 175.96
+Actor Loss: -0.0075, Value Loss: 2.0585, Entropy: 0.0918
+Best Avg Reward: 200.95
+
+Episode 372, Reward: 199.23, Avg Reward: 175.82
+Actor Loss: -0.0089, Value Loss: 1.8545, Entropy: 0.0897
+Best Avg Reward: 200.95
+
+Episode 373, Reward: 182.91, Avg Reward: 175.39
+Actor Loss: -0.0076, Value Loss: 0.8975, Entropy: 0.0895
+Best Avg Reward: 200.95
+
+Episode 374, Reward: 185.39, Avg Reward: 175.24
+Actor Loss: -0.0100, Value Loss: 0.6822, Entropy: 0.0872
+Best Avg Reward: 200.95
+
+Episode 375, Reward: 159.86, Avg Reward: 173.78
+Actor Loss: -0.0095, Value Loss: 0.4085, Entropy: 0.0839
+Best Avg Reward: 200.95
+
+Episode 376, Reward: 223.43, Avg Reward: 173.01
+Actor Loss: -0.0067, Value Loss: 1.6277, Entropy: 0.0823
+Best Avg Reward: 200.95
+
+Episode 377, Reward: 156.50, Avg Reward: 171.95
+Actor Loss: -0.0090, Value Loss: 0.7186, Entropy: 0.0806
+Best Avg Reward: 200.95
+
+Episode 378, Reward: 218.86, Avg Reward: 171.99
+Actor Loss: -0.0088, Value Loss: 0.8101, Entropy: 0.0777
+Best Avg Reward: 200.95
+
+Episode 379, Reward: 172.93, Avg Reward: 171.58
+Actor Loss: -0.0022, Value Loss: 0.4776, Entropy: 0.0759
+Best Avg Reward: 200.95
+
+Episode 380, Reward: 146.89, Avg Reward: 170.65
+Actor Loss: -0.0069, Value Loss: 1.0555, Entropy: 0.0753
+Best Avg Reward: 200.95
+
+Episode 381, Reward: 239.08, Avg Reward: 171.01
+Actor Loss: -0.0080, Value Loss: 2.6072, Entropy: 0.0762
+Best Avg Reward: 200.95
+
+Episode 382, Reward: 165.04, Avg Reward: 170.23
+Actor Loss: -0.0065, Value Loss: 0.6854, Entropy: 0.0750
+Best Avg Reward: 200.95
+
+Episode 383, Reward: 176.39, Avg Reward: 169.91
+Actor Loss: -0.0056, Value Loss: 1.0784, Entropy: 0.0731
+Best Avg Reward: 200.95
+
+Episode 384, Reward: 208.84, Avg Reward: 170.11
+Actor Loss: -0.0091, Value Loss: 0.5303, Entropy: 0.0713
+Best Avg Reward: 200.95
+
+Episode 385, Reward: 192.30, Avg Reward: 169.38
+Actor Loss: -0.0059, Value Loss: 0.5867, Entropy: 0.0704
+Best Avg Reward: 200.95
+
+Episode 386, Reward: 183.97, Avg Reward: 169.87
+Actor Loss: -0.0084, Value Loss: 0.4181, Entropy: 0.0701
+Best Avg Reward: 200.95
+
+Episode 387, Reward: 106.66, Avg Reward: 169.50
+Actor Loss: -0.0140, Value Loss: 6.3795, Entropy: 0.0684
+Best Avg Reward: 200.95
+
+Episode 388, Reward: 179.21, Avg Reward: 169.33
+Actor Loss: -0.0081, Value Loss: 1.6179, Entropy: 0.0681
+Best Avg Reward: 200.95
+
+Episode 389, Reward: 228.20, Avg Reward: 170.05
+Actor Loss: -0.0110, Value Loss: 1.8641, Entropy: 0.0703
+Best Avg Reward: 200.95
+
+Episode 390, Reward: 121.03, Avg Reward: 169.74
+Actor Loss: -0.0128, Value Loss: 2.4853, Entropy: 0.0706
+Best Avg Reward: 200.95
+
+Episode 391, Reward: 165.08, Avg Reward: 169.48
+Actor Loss: -0.0079, Value Loss: 0.8102, Entropy: 0.0690
+Best Avg Reward: 200.95
+
+Episode 392, Reward: 258.09, Avg Reward: 170.46
+Actor Loss: -0.0100, Value Loss: 1.6497, Entropy: 0.0689
+Best Avg Reward: 200.95
+
+Episode 393, Reward: 218.82, Avg Reward: 170.52
+Actor Loss: -0.0067, Value Loss: 1.0542, Entropy: 0.0683
+Best Avg Reward: 200.95
+
+Episode 394, Reward: 143.64, Avg Reward: 170.34
+Actor Loss: -0.0129, Value Loss: 2.6635, Entropy: 0.0666
+Best Avg Reward: 200.95
+
+Episode 395, Reward: 152.61, Avg Reward: 169.35
+Actor Loss: -0.0053, Value Loss: 0.4194, Entropy: 0.0643
+Best Avg Reward: 200.95
+
+Episode 396, Reward: 208.80, Avg Reward: 170.13
+Actor Loss: -0.0100, Value Loss: 1.1555, Entropy: 0.0599
+Best Avg Reward: 200.95
+
+Episode 397, Reward: 220.41, Avg Reward: 169.91
+Actor Loss: -0.0099, Value Loss: 0.7625, Entropy: 0.0565
+Best Avg Reward: 200.95
+
+Episode 398, Reward: 165.64, Avg Reward: 168.97
+Actor Loss: -0.0110, Value Loss: 0.7426, Entropy: 0.0542
+Best Avg Reward: 200.95
+
+Episode 399, Reward: 242.65, Avg Reward: 169.70
+Actor Loss: -0.0083, Value Loss: 0.9496, Entropy: 0.0537
+Best Avg Reward: 200.95
+
+Episode 400, Reward: 194.71, Avg Reward: 169.79
+Actor Loss: -0.0051, Value Loss: 0.5833, Entropy: 0.0550
+Best Avg Reward: 200.95
+
+Episode 401, Reward: 190.78, Avg Reward: 170.61
+Actor Loss: -0.0116, Value Loss: 0.8548, Entropy: 0.0556
+Best Avg Reward: 200.95
+
+Episode 402, Reward: 192.01, Avg Reward: 170.72
+Actor Loss: -0.0059, Value Loss: 0.3981, Entropy: 0.0554
+Best Avg Reward: 200.95
+
+Episode 403, Reward: 200.68, Avg Reward: 170.75
+Actor Loss: -0.0107, Value Loss: 1.0520, Entropy: 0.0543
+Best Avg Reward: 200.95
+
+Episode 404, Reward: 163.09, Avg Reward: 170.24
+Actor Loss: -0.0115, Value Loss: 1.1969, Entropy: 0.0523
+Best Avg Reward: 200.95
+
+Episode 405, Reward: 257.56, Avg Reward: 170.78
+Actor Loss: -0.0049, Value Loss: 1.5255, Entropy: 0.0518
+Best Avg Reward: 200.95
+
+Episode 406, Reward: 153.61, Avg Reward: 170.29
+Actor Loss: -0.0101, Value Loss: 2.5898, Entropy: 0.0529
+Best Avg Reward: 200.95
+
+Episode 407, Reward: 221.84, Avg Reward: 170.53
+Actor Loss: -0.0095, Value Loss: 1.0908, Entropy: 0.0535
+Best Avg Reward: 200.95
+
+Episode 408, Reward: 152.82, Avg Reward: 170.58
+Actor Loss: -0.0112, Value Loss: 1.1666, Entropy: 0.0528
+Best Avg Reward: 200.95
+
+Episode 409, Reward: 317.45, Avg Reward: 172.26
+Actor Loss: -0.0070, Value Loss: 1.9873, Entropy: 0.0481
+Best Avg Reward: 200.95
+
+Episode 410, Reward: 222.26, Avg Reward: 173.04
+Actor Loss: -0.0100, Value Loss: 0.9003, Entropy: 0.0487
+Best Avg Reward: 200.95
+
+Episode 411, Reward: 199.33, Avg Reward: 173.28
+Actor Loss: -0.0126, Value Loss: 0.8638, Entropy: 0.0489
+Best Avg Reward: 200.95
+
+Episode 412, Reward: 244.78, Avg Reward: 174.44
+Actor Loss: -0.0084, Value Loss: 1.0430, Entropy: 0.0488
+Best Avg Reward: 200.95
+
+Episode 413, Reward: 225.36, Avg Reward: 175.72
+Actor Loss: -0.0066, Value Loss: 0.3505, Entropy: 0.0485
+Best Avg Reward: 200.95
+
+Episode 414, Reward: 211.23, Avg Reward: 175.05
+Actor Loss: -0.0067, Value Loss: 0.9380, Entropy: 0.0497
+Best Avg Reward: 200.95
+
+Episode 415, Reward: 146.29, Avg Reward: 174.70
+Actor Loss: -0.0147, Value Loss: 5.0141, Entropy: 0.0486
+Best Avg Reward: 200.95
+
+Episode 416, Reward: 151.25, Avg Reward: 174.29
+Actor Loss: -0.0066, Value Loss: 0.9400, Entropy: 0.0462
+Best Avg Reward: 200.95
+
+Episode 417, Reward: 200.46, Avg Reward: 174.36
+Actor Loss: -0.0056, Value Loss: 2.2199, Entropy: 0.0444
+Best Avg Reward: 200.95
+
+Episode 418, Reward: 176.16, Avg Reward: 174.22
+Actor Loss: -0.0083, Value Loss: 0.5886, Entropy: 0.0445
+Best Avg Reward: 200.95
+
+Episode 419, Reward: 152.85, Avg Reward: 173.78
+Actor Loss: -0.0072, Value Loss: 0.7094, Entropy: 0.0426
+Best Avg Reward: 200.95
+
+Episode 420, Reward: 273.54, Avg Reward: 174.58
+Actor Loss: -0.0089, Value Loss: 3.5198, Entropy: 0.0407
+Best Avg Reward: 200.95
+
+Episode 421, Reward: 250.76, Avg Reward: 175.55
+Actor Loss: -0.0090, Value Loss: 1.5681, Entropy: 0.0416
+Best Avg Reward: 200.95
+
+Episode 422, Reward: 268.46, Avg Reward: 176.12
+Actor Loss: -0.0053, Value Loss: 1.3793, Entropy: 0.0425
+Best Avg Reward: 200.95
+
+Episode 423, Reward: 210.49, Avg Reward: 176.02
+Actor Loss: -0.0102, Value Loss: 2.0275, Entropy: 0.0415
+Best Avg Reward: 200.95
+
+Episode 424, Reward: 181.06, Avg Reward: 175.98
+Actor Loss: -0.0097, Value Loss: 1.2561, Entropy: 0.0385
+Best Avg Reward: 200.95
+
+Episode 425, Reward: 190.78, Avg Reward: 176.22
+Actor Loss: -0.0067, Value Loss: 0.7665, Entropy: 0.0340
+Best Avg Reward: 200.95
+
+Episode 426, Reward: 233.30, Avg Reward: 176.03
+Actor Loss: -0.0063, Value Loss: 0.7432, Entropy: 0.0302
+Best Avg Reward: 200.95
+
+Episode 427, Reward: 188.38, Avg Reward: 175.65
+Actor Loss: -0.0065, Value Loss: 0.6353, Entropy: 0.0294
+Best Avg Reward: 200.95
+
+Episode 428, Reward: 234.49, Avg Reward: 176.02
+Actor Loss: -0.0065, Value Loss: 2.0761, Entropy: 0.0283
+Best Avg Reward: 200.95
+
+Episode 429, Reward: 197.95, Avg Reward: 177.01
+Actor Loss: -0.0069, Value Loss: 0.7624, Entropy: 0.0279
+Best Avg Reward: 200.95
+
+Episode 430, Reward: 206.26, Avg Reward: 177.14
+Actor Loss: -0.0036, Value Loss: 0.9545, Entropy: 0.0278
+Best Avg Reward: 200.95
+
+Episode 431, Reward: 223.41, Avg Reward: 178.18
+Actor Loss: -0.0095, Value Loss: 0.8258, Entropy: 0.0274
+Best Avg Reward: 200.95
+
+Episode 432, Reward: 263.35, Avg Reward: 179.69
+Actor Loss: -0.0084, Value Loss: 1.3467, Entropy: 0.0250
+Best Avg Reward: 200.95
+
+Episode 433, Reward: 219.66, Avg Reward: 180.37
+Actor Loss: -0.0083, Value Loss: 0.8491, Entropy: 0.0239
+Best Avg Reward: 200.95
+
+Episode 434, Reward: 225.25, Avg Reward: 180.03
+Actor Loss: -0.0087, Value Loss: 0.6263, Entropy: 0.0222
+Best Avg Reward: 200.95
+
+Episode 435, Reward: 243.26, Avg Reward: 180.30
+Actor Loss: -0.0082, Value Loss: 0.9767, Entropy: 0.0182
+Best Avg Reward: 200.95
+
+Episode 436, Reward: 241.31, Avg Reward: 181.75
+Actor Loss: -0.0068, Value Loss: 0.6876, Entropy: 0.0166
+Best Avg Reward: 200.95
+
+Episode 437, Reward: 174.23, Avg Reward: 181.51
+Actor Loss: -0.0071, Value Loss: 0.7198, Entropy: 0.0163
+Best Avg Reward: 200.95
+
+Episode 438, Reward: 219.37, Avg Reward: 181.24
+Actor Loss: -0.0052, Value Loss: 0.7418, Entropy: 0.0170
+Best Avg Reward: 200.95
+
+Episode 439, Reward: 152.09, Avg Reward: 180.99
+Actor Loss: -0.0135, Value Loss: 6.6117, Entropy: 0.0146
+Best Avg Reward: 200.95
+
+Episode 440, Reward: 351.10, Avg Reward: 181.96
+Actor Loss: -0.0034, Value Loss: 2.1265, Entropy: 0.0121
+Best Avg Reward: 200.95
+
+Episode 441, Reward: 299.82, Avg Reward: 183.45
+Actor Loss: -0.0070, Value Loss: 1.5633, Entropy: 0.0148
+Best Avg Reward: 200.95
+
+Episode 442, Reward: 217.17, Avg Reward: 184.09
+Actor Loss: -0.0071, Value Loss: 1.2552, Entropy: 0.0166
+Best Avg Reward: 200.95
+
+Episode 443, Reward: 214.88, Avg Reward: 184.78
+Actor Loss: -0.0062, Value Loss: 1.2654, Entropy: 0.0177
+Best Avg Reward: 200.95
+
+Episode 444, Reward: 259.24, Avg Reward: 185.55
+Actor Loss: -0.0054, Value Loss: 0.8287, Entropy: 0.0180
+Best Avg Reward: 200.95
+
+Episode 445, Reward: 219.13, Avg Reward: 185.92
+Actor Loss: -0.0076, Value Loss: 1.2307, Entropy: 0.0152
+Best Avg Reward: 200.95
+
+Episode 446, Reward: 245.51, Avg Reward: 187.31
+Actor Loss: -0.0089, Value Loss: 0.6290, Entropy: 0.0122
+Best Avg Reward: 200.95
+
+Episode 447, Reward: 212.65, Avg Reward: 188.29
+Actor Loss: -0.0116, Value Loss: 1.4899, Entropy: 0.0071
+Best Avg Reward: 200.95
+
+Episode 448, Reward: 219.02, Avg Reward: 188.70
+Actor Loss: -0.0076, Value Loss: 0.5425, Entropy: 0.0022
+Best Avg Reward: 200.95
+
+Episode 449, Reward: 315.65, Avg Reward: 190.65
+Actor Loss: -0.0098, Value Loss: 1.7437, Entropy: 0.0040
+Best Avg Reward: 200.95
+
+Episode 450, Reward: 275.60, Avg Reward: 191.66
+Actor Loss: -0.0060, Value Loss: 1.2599, Entropy: 0.0070
+Best Avg Reward: 200.95
+
+Episode 451, Reward: 215.74, Avg Reward: 193.02
+Actor Loss: -0.0056, Value Loss: 1.2761, Entropy: 0.0075
+Best Avg Reward: 200.95
+
+Episode 452, Reward: 296.54, Avg Reward: 194.70
+Actor Loss: -0.0058, Value Loss: 0.7767, Entropy: 0.0113
+Best Avg Reward: 200.95
+
+Episode 453, Reward: 178.08, Avg Reward: 195.39
+Actor Loss: -0.0102, Value Loss: 3.1737, Entropy: 0.0107
+Best Avg Reward: 200.95
+
+Episode 454, Reward: 201.91, Avg Reward: 195.99
+Actor Loss: -0.0065, Value Loss: 0.8748, Entropy: 0.0076
+Best Avg Reward: 200.95
+
+Episode 455, Reward: 270.56, Avg Reward: 197.39
+Actor Loss: -0.0058, Value Loss: 0.9102, Entropy: 0.0084
+Best Avg Reward: 200.95
+
+Episode 456, Reward: 320.76, Avg Reward: 199.46
+Actor Loss: -0.0077, Value Loss: 1.2047, Entropy: 0.0103
+Best Avg Reward: 200.95
+
+Episode 457, Reward: 175.02, Avg Reward: 200.17
+Actor Loss: -0.0106, Value Loss: 2.9694, Entropy: 0.0111
+Best Avg Reward: 200.95
+
+Episode 458, Reward: 285.96, Avg Reward: 201.92
+Actor Loss: -0.0071, Value Loss: 1.7753, Entropy: 0.0112
+Best Avg Reward: 201.92
+
+Episode 459, Reward: 304.30, Avg Reward: 203.95
+Actor Loss: -0.0081, Value Loss: 1.1671, Entropy: 0.0118
+Best Avg Reward: 203.95
+
+Episode 460, Reward: 268.82, Avg Reward: 205.26
+Actor Loss: -0.0077, Value Loss: 1.1546, Entropy: 0.0113
+Best Avg Reward: 205.26
+
+Episode 461, Reward: 216.05, Avg Reward: 206.44
+Actor Loss: -0.0094, Value Loss: 2.2889, Entropy: 0.0115
+Best Avg Reward: 206.44
+
+Episode 462, Reward: 273.58, Avg Reward: 207.74
+Actor Loss: -0.0074, Value Loss: 1.3900, Entropy: 0.0106
+Best Avg Reward: 207.74
+
+Episode 463, Reward: 288.18, Avg Reward: 209.30
+Actor Loss: -0.0082, Value Loss: 1.0778, Entropy: 0.0131
+Best Avg Reward: 209.30
+
+Episode 464, Reward: 273.84, Avg Reward: 210.38
+Actor Loss: -0.0075, Value Loss: 0.9673, Entropy: 0.0117
+Best Avg Reward: 210.38
+
+Episode 465, Reward: 170.66, Avg Reward: 210.23
+Actor Loss: -0.0080, Value Loss: 4.0822, Entropy: 0.0079
+Best Avg Reward: 210.38
+
+Episode 466, Reward: 324.79, Avg Reward: 211.89
+Actor Loss: -0.0092, Value Loss: 1.7367, Entropy: 0.0083
+Best Avg Reward: 211.89
+
+Episode 467, Reward: 334.65, Avg Reward: 214.02
+Actor Loss: -0.0069, Value Loss: 1.1567, Entropy: 0.0146
+Best Avg Reward: 214.02
+
+Episode 468, Reward: 319.17, Avg Reward: 215.93
+Actor Loss: -0.0064, Value Loss: 1.3789, Entropy: 0.0181
+Best Avg Reward: 215.93
+
+Episode 469, Reward: 269.77, Avg Reward: 217.30
+Actor Loss: -0.0066, Value Loss: 1.3521, Entropy: 0.0178
+Best Avg Reward: 217.30
+
+Episode 470, Reward: 136.84, Avg Reward: 216.57
+Actor Loss: -0.0104, Value Loss: 8.4089, Entropy: 0.0168
+Best Avg Reward: 217.30
+
+Episode 471, Reward: 243.09, Avg Reward: 217.92
+Actor Loss: -0.0081, Value Loss: 1.3793, Entropy: 0.0144
+Best Avg Reward: 217.92
+
+Episode 472, Reward: 334.12, Avg Reward: 219.27
+Actor Loss: -0.0081, Value Loss: 1.7197, Entropy: 0.0138
+Best Avg Reward: 219.27
+
+Episode 473, Reward: 337.86, Avg Reward: 220.82
+Actor Loss: -0.0060, Value Loss: 0.8859, Entropy: 0.0185
+Best Avg Reward: 220.82
+
+Episode 474, Reward: 287.81, Avg Reward: 221.85
+Actor Loss: -0.0081, Value Loss: 0.9184, Entropy: 0.0230
+Best Avg Reward: 221.85
+
+Episode 475, Reward: 259.35, Avg Reward: 222.84
+Actor Loss: -0.0068, Value Loss: 2.1006, Entropy: 0.0258
+Best Avg Reward: 222.84
+
+Episode 476, Reward: 271.96, Avg Reward: 223.33
+Actor Loss: -0.0065, Value Loss: 0.7377, Entropy: 0.0227
+Best Avg Reward: 223.33
+
+Episode 477, Reward: 245.41, Avg Reward: 224.22
+Actor Loss: -0.0122, Value Loss: 1.0151, Entropy: 0.0187
+Best Avg Reward: 224.22
+
+Episode 478, Reward: 230.67, Avg Reward: 224.33
+Actor Loss: -0.0080, Value Loss: 1.3783, Entropy: 0.0171
+Best Avg Reward: 224.33
+
+Episode 479, Reward: 269.54, Avg Reward: 225.30
+Actor Loss: -0.0075, Value Loss: 1.0358, Entropy: 0.0190
+Best Avg Reward: 225.30
+
+Episode 480, Reward: 236.71, Avg Reward: 226.20
+Actor Loss: -0.0068, Value Loss: 0.7817, Entropy: 0.0186
+Best Avg Reward: 226.20
+
+Episode 481, Reward: 298.35, Avg Reward: 226.79
+Actor Loss: -0.0068, Value Loss: 1.0417, Entropy: 0.0195
+Best Avg Reward: 226.79
+
+Episode 482, Reward: 242.60, Avg Reward: 227.57
+Actor Loss: -0.0083, Value Loss: 1.0488, Entropy: 0.0223
+Best Avg Reward: 227.57
+
+Episode 483, Reward: 250.22, Avg Reward: 228.31
+Actor Loss: -0.0061, Value Loss: 1.4923, Entropy: 0.0211
+Best Avg Reward: 228.31
+
+Episode 484, Reward: 314.22, Avg Reward: 229.36
+Actor Loss: -0.0092, Value Loss: 0.9691, Entropy: 0.0222
+Best Avg Reward: 229.36
+
+Episode 485, Reward: 359.91, Avg Reward: 231.04
+Actor Loss: -0.0046, Value Loss: 0.9870, Entropy: 0.0262
+Best Avg Reward: 231.04
+
+Episode 486, Reward: 173.32, Avg Reward: 230.93
+Actor Loss: -0.0106, Value Loss: 7.1310, Entropy: 0.0272
+Best Avg Reward: 231.04
+
+Episode 487, Reward: 365.71, Avg Reward: 233.52
+Actor Loss: -0.0097, Value Loss: 1.6690, Entropy: 0.0268
+Best Avg Reward: 233.52
+
+Episode 488, Reward: 305.07, Avg Reward: 234.78
+Actor Loss: -0.0079, Value Loss: 1.3021, Entropy: 0.0291
+Best Avg Reward: 234.78
+
+Episode 489, Reward: 361.37, Avg Reward: 236.11
+Actor Loss: -0.0039, Value Loss: 1.0085, Entropy: 0.0288
+Best Avg Reward: 236.11
+
+Episode 490, Reward: 132.96, Avg Reward: 236.23
+Actor Loss: -0.0081, Value Loss: 8.2296, Entropy: 0.0271
+Best Avg Reward: 236.23
+
+Episode 491, Reward: 119.81, Avg Reward: 235.78
+Actor Loss: -0.0077, Value Loss: 4.9759, Entropy: 0.0276
+Best Avg Reward: 236.23
+
+Episode 492, Reward: 288.73, Avg Reward: 236.08
+Actor Loss: -0.0101, Value Loss: 2.0449, Entropy: 0.0278
+Best Avg Reward: 236.23
+
+Episode 493, Reward: 304.19, Avg Reward: 236.94
+Actor Loss: -0.0082, Value Loss: 1.5645, Entropy: 0.0283
+Best Avg Reward: 236.94
+
+Episode 494, Reward: 359.57, Avg Reward: 239.10
+Actor Loss: -0.0072, Value Loss: 1.4675, Entropy: 0.0282
+Best Avg Reward: 239.10
+
+Episode 495, Reward: 218.75, Avg Reward: 239.76
+Actor Loss: -0.0101, Value Loss: 1.9871, Entropy: 0.0260
+Best Avg Reward: 239.76
+
+Episode 496, Reward: 280.38, Avg Reward: 240.47
+Actor Loss: -0.0098, Value Loss: 0.8159, Entropy: 0.0233
+Best Avg Reward: 240.47
+
+Episode 497, Reward: 295.92, Avg Reward: 241.23
+Actor Loss: -0.0085, Value Loss: 1.1361, Entropy: 0.0243
+Best Avg Reward: 241.23
+
+Episode 498, Reward: 186.70, Avg Reward: 241.44
+Actor Loss: -0.0095, Value Loss: 3.5485, Entropy: 0.0236
+Best Avg Reward: 241.44
+
+Episode 499, Reward: 369.96, Avg Reward: 242.71
+Actor Loss: -0.0103, Value Loss: 2.4759, Entropy: 0.0218
+Best Avg Reward: 242.71
+
+Episode 500, Reward: 347.70, Avg Reward: 244.24
+Actor Loss: -0.0103, Value Loss: 1.4533, Entropy: 0.0239
+Best Avg Reward: 244.24
+
